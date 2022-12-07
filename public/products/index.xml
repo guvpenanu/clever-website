@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on Clever</title>
+    <link>http://cleveroffsets.com/products/</link>
+    <description>Recent content in Products on Clever</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate>
+    
+	<atom:link href="http://cleveroffsets.com/products/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analytics Platform</title>
+      <link>http://cleveroffsets.com/products/example/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>http://cleveroffsets.com/products/example/</guid>
+      <description>Our offset analytics platform is the the de facto research tool for professionals seeking to maximize offset purchase efficiency. There’s no comparable mechanism out there for performing data analysis across registries. Data fields are homogenized across registries to ensure apples-to-apples comparisons. Our smart database structures and aggregates information from 14,696 projects across 5 major registries, representing 2,341 unique project developers operating in 151 countries.
+In total, we have clean data underpinning more than 3 billion credits.</description>
+    </item>
+    
+  </channel>
+</rss>
