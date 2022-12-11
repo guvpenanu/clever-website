@@ -28,21 +28,50 @@
     width: 90%;
     margin: 0 auto;
 }
+
+.blurb {
+    display: flex;
+}
+
+.blurb div {
+    flex: auto;
+}
+
 </style>
 
 <br/>
 
 <div class="copyw">
-<span class="clever">clever</span> makes complex decisions simple and analyzable through the carbon credit project cycle.  Read how all stakeholders benefit from clever’s proprietary smart database:
+
+    <div class="blurb">
+        <div>
+            <span class="clever">clever</span> makes complex decisions simple and analyzable through the carbon credit project cycle.  Read how all stakeholders benefit from clever’s proprietary smart database <a target="_blank" href="/pdf/complex-to-simple.pdf#toolbar=0&navpanes=0">here</a>.
+        </div>
+        <div>
+            <span class="clever">clever</span>’s proprietary database is the largest of its kind, aggregating project details for carbon markets.  Read about our special sauce <a target="_blank" href="/pdf/special-sauce.pdf#toolbar=0&navpanes=0">here</a>.
+        </div>
+    </div>
+
+
 </div>
-<iframe width="90%" height="500px" style="margin: 0 auto;" src="/pdf/complex-to-simple.pdf#toolbar=0&navpanes=0" ></iframe>
+
 
 <br/>
-<div class="copyw">
-<span class="clever">clever</span>’s proprietary database is the largest of its kind, aggregating project details for carbon markets.  Read about our special sauce:
-</div>
 
-<iframe width="90%" height="500px" style="margin: 0 auto;" src="/pdf/special-sauce.pdf#toolbar=0&navpanes=0" /> </iframe> 
+
+
+
+<video
+    
+    style="margin: 0 auto;"
+    width=90%
+    controls
+    
+    poster=/img/simple.png>
+    <source src="/videos/complicated.mp4" type="video/mp4">
+    Your browser does not support the video tag.  
+</video>
+
 </div>
 
 <script>
