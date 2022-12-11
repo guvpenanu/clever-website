@@ -37,6 +37,11 @@
     flex: auto;
 }
 
+a {
+color: blue;
+text-decoration: underline;
+}
+
 </style>
 
 <br/>
@@ -48,7 +53,7 @@
             <span class="clever">clever</span> makes complex decisions simple and analyzable through the carbon credit project cycle.  Read how all stakeholders benefit from clever’s proprietary smart database <a target="_blank" href="/pdf/complex-to-simple.pdf#toolbar=0&navpanes=0">here</a>.
         </div>
         <div>
-            <span class="clever">clever</span>’s proprietary database is the largest of its kind, aggregating project details for carbon markets.  Read about our special sauce <a target="_blank" href="/pdf/special-sauce.pdf#toolbar=0&navpanes=0">here</a>.
+            <span class="clever">clever's</span> proprietary database is the largest of its kind, aggregating project details for carbon markets.  Read about our special sauce <a target="_blank" href="/pdf/special-sauce.pdf#toolbar=0&navpanes=0">here</a>.
         </div>
     </div>
 
