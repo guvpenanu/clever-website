@@ -34,7 +34,13 @@
 }
 
 .blurb div {
-    flex: auto;
+flex: 10;
+text-align: justify;
+text-justify: inter-word;
+}
+.blurb div.divider {
+flex: 1;
+
 }
 
 a {
@@ -52,6 +58,7 @@ text-decoration: underline;
         <div>
             <span class="clever">clever</span> makes complex decisions simple and analyzable through the carbon credit project cycle.  Read how all stakeholders benefit from clever’s proprietary smart database <a target="_blank" href="/pdf/complex-to-simple.pdf#toolbar=0&navpanes=0">here</a>.
         </div>
+        <div class="divider"></div>
         <div>
             <span class="clever">clever's</span> proprietary database is the largest of its kind, aggregating project details for carbon markets.  Read about our special sauce <a target="_blank" href="/pdf/special-sauce.pdf#toolbar=0&navpanes=0">here</a>.
         </div>
